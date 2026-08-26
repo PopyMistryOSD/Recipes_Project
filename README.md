@@ -11,4 +11,4 @@ A complete, production-ready backend system for a modern Recipe Application. Ori
 * **Admin Dashboard:** Manage recipes, categories, ads network, notifications, and dynamic app configurations.
 * **Mobile REST API:** GET-based JSON endpoints for Android/iOS, secured via API key authentication.
 * **Modernized & Secure:** Upgraded from raw SQL queries to Eloquent ORM, featuring bcrypt hashing, CSRF protection, and mass assignment prevention.
-* **Tech Stack:** Laravel 13, PHP 8.5, Blade, Tailwind CSS, Alpine.js, MySQL.
+* **Tech Stack:** Laravel 12, PHP 8.5, Blade, Tailwind CSS, Alpine.js, MySQL.
