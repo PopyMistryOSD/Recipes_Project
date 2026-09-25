@@ -1,6 +1,6 @@
 # 🍳 Recipe App Backend (Admin Panel + Mobile API)
 
-![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=flat&logo=laravel)
+![Laravel](https://img.shields.io/badge/Laravel-13.x-FF2D20?style=flat&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.4.8-777BB4?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql)
 ![License](https://img.shields.io/badge/Version-1.0.0-blue)
